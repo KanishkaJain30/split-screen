@@ -1,3 +1,3 @@
 # split-screen
 
-Checkout this Web page at :-  [Click here](https://quazzu-cloud-computing.netlify.app/)
+Checkout this project at :-  [https://quazzu-cloud-computing.netlify.app/](https://quazzu-cloud-computing.netlify.app/)
